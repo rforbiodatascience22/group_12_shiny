@@ -13,7 +13,12 @@ Author@R:
     person(given = "Jonathan",
            family = "Funk",
            role = "aut",
-           email = "funk.jonathan21@gmail.com"))Description: PKG_DESC.
+           email = "funk.jonathan21@gmail.com")
+    person(given = "Laura",
+           family = "Machado",
+           role = "aut",
+           email = "laurasofiamago@gmail.com"))
+Description: PKG_DESC.
 License: MIT + file LICENSE
 Imports: 
     config (>= 0.3.1),
