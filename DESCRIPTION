@@ -1,8 +1,15 @@
 Package: myshinyapp
 Title: PKG_TITLE
 Version: 0.0.0.9000
-Authors@R: person('AUTHOR_FIRST', 'AUTHOR_LAST', email = 'AUTHOR@MAIL.COM', role = c('cre', 'aut'))
-Description: PKG_DESC.
+Author@R:
+  c(person(given = "firstname",
+           family = "lastname",
+           role = c("aut", "cre"), # There must be a "cre", but there can only be one
+           email = "your@email.com"), 
+    person(given = "Eric",
+           family = "Bautista",
+           role = "aut",
+           email = "ericbaufa10@gmail.com"))Description: PKG_DESC.
 License: MIT + file LICENSE
 Imports: 
     config (>= 0.3.1),
