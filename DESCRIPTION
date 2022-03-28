@@ -9,7 +9,16 @@ Author@R:
     person(given = "Eric",
            family = "Bautista",
            role = "aut",
-           email = "ericbaufa10@gmail.com"))Description: PKG_DESC.
+           email = "ericbaufa10@gmail.com")
+    person(given = "Jonathan",
+           family = "Funk",
+           role = "aut",
+           email = "funk.jonathan21@gmail.com")
+    person(given = "Laura",
+           family = "Machado",
+           role = "aut",
+           email = "laurasofiamago@gmail.com"))
+Description: PKG_DESC.
 License: MIT + file LICENSE
 Imports: 
     config (>= 0.3.1),
@@ -17,4 +26,4 @@ Imports:
     shiny (>= 1.7.1)
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
