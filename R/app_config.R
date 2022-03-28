@@ -9,7 +9,7 @@
 #'
 #' @noRd
 app_sys <- function(...) {
-  system.file(..., package = "central dogma group 12")
+  system.file(..., package = "myshinyapp")
 }
 
 
