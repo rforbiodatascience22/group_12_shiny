@@ -2,10 +2,10 @@ Package: central dogma group 12
 Title: PKG_TITLE
 Version: 0.0.0.9000
 Author@R:
-  c(person(given = "firstname",
-           family = "lastname",
-           role = c("aut", "cre"), # There must be a "cre", but there can only be one
-           email = "your@email.com"), 
+  c(person(given = "Deeptha",
+           family = "Shanmugam",
+           role = "cre", # There must be a "cre", but there can only be one
+           email = "s210230@student.dtu.dk"), 
     person(given = "Eric",
            family = "Bautista",
            role = "aut",
