@@ -16,5 +16,8 @@ $run_dev.*
 ^centraldogma12\.Rcheck$
 ^centraldogma12.*\.tar\.gz$
 ^centraldogma12.*\.tgz$
+<<<<<<< HEAD
 ^app\.R$
 ^rsconnect$
+=======
+>>>>>>> 94554cb14b3733219c09b344d6e4a9268ec154c2
