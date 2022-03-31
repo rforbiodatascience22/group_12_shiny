@@ -13,3 +13,6 @@ $run_dev.*
 ^central dogma group 12 \.Rcheck$
 ^central dogma group 12 .*\.tar\.gz$
 ^central dogma group 12 .*\.tgz$
+^centraldogma12\.Rcheck$
+^centraldogma12.*\.tar\.gz$
+^centraldogma12.*\.tgz$
