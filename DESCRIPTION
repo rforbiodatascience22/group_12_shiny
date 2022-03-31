@@ -1,29 +1,20 @@
 Package: centraldogma12
 Title: PKG_TITLE
 Version: 0.0.0.9000
-Author@R:
-  c(person(given = "Deeptha",
-           family = "Shanmugam",
-           role = "cre", # There must be a "cre", but there can only be one
-           email = "s210230@student.dtu.dk"), 
-    person(given = "Eric",
-           family = "Bautista",
-           role = "aut",
-           email = "ericbaufa10@gmail.com")
-    person(given = "Jonathan",
-           family = "Funk",
-           role = "aut",
-           email = "funk.jonathan21@gmail.com")
-    person(given = "Laura",
-           family = "Machado",
-           role = "aut",
-           email = "laurasofiamago@gmail.com"))
 Description: PKG_DESC.
 License: MIT + file LICENSE
 Imports: 
     config (>= 0.3.1),
     golem (>= 0.3.2),
+    magrittr,
     shiny (>= 1.7.1)
+Author@R:c(person(given = "Deeptha", family = "Shanmugam", role = "cre",
+    # There must be a "cre", but there can only be one email =
+    "s210230@student.dtu.dk"), person(given = "Eric", family = "Bautista",
+    role = "aut", email = "ericbaufa10@gmail.com") person(given =
+    "Jonathan", family = "Funk", role = "aut", email =
+    "funk.jonathan21@gmail.com") person(given = "Laura", family =
+    "Machado", role = "aut", email = "laurasofiamago@gmail.com"))
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.2
